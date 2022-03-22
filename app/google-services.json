@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745985455941",
+    "project_id": "loginfirebasemodelo",
+    "storage_bucket": "loginfirebasemodelo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745985455941:android:3206e489fc33efae56b02c",
+        "android_client_info": {
+          "package_name": "com.felipe.login_modelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745985455941-272pheu5rann4rdqeiopa62tsfobrr65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyiaRKhptlXojfuAVX_Dh7lsL7kmIzZU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745985455941-272pheu5rann4rdqeiopa62tsfobrr65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
